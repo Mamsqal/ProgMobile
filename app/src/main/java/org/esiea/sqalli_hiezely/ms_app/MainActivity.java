@@ -141,7 +141,7 @@ public class MainActivity extends AppCompatActivity {
   }
 
 
-/*    private class BiersAdapter extends RecyclerView.Adapter<BierHolder>{
+    private class BiersAdapter extends RecyclerView.Adapter<BierHolder>{
 
 
         @Override
@@ -158,7 +158,7 @@ public class MainActivity extends AppCompatActivity {
         public int getItemCount() {
             return 0;
         }
-    }*/
+    }
 
 }
 
